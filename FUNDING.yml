@@ -1,0 +1,18 @@
+# GitHub sponsorship configuration.
+# Uncomment and fill in the platforms you want enabled. Once committed,
+# a "Sponsor" button will appear on every Crosscheck repository.
+#
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# github: [crosscheck]
+# patreon: crosscheck
+# open_collective: crosscheck
+# ko_fi: crosscheck
+# tidelift: npm/crosscheck
+# community_bridge: crosscheck
+# liberapay: crosscheck
+# issuehunt: crosscheck
+# otechie: crosscheck
+# lfx_crowdfunding: crosscheck
+# polar: crosscheck
+custom: ['https://crosscheck.cloud']

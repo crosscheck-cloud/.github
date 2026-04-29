@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help Center
+    url: https://crosscheck.cloud/help-center
+    about: Browse documentation and common questions before opening an issue.
+  - name: Product Support
+    url: mailto:support@crosscheck.cloud
+    about: Email us for account, install, or product issues.
+  - name: General Inquiries
+    url: mailto:info@crosscheck.cloud
+    about: Partnerships, press, business inquiries, and feedback.
+  - name: Security Vulnerabilities
+    url: https://github.com/crosscheck-cloud/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not via public GitHub issues.
