@@ -48,8 +48,10 @@ We ship in public — releases, behind-the-scenes, and the occasional bug horror
 - **LinkedIn:** [linkedin.com/company/crosscheck-cloud](https://www.linkedin.com/company/crosscheck-cloud)
 - **Facebook:** [facebook.com/crosscheck.cloud](https://www.facebook.com/crosscheck.cloud)
 - **Instagram:** [@crosscheck.cloud](https://www.instagram.com/crosscheck.cloud)
+- **Threads:** [@crosscheck.cloud](https://www.threads.com/@crosscheck.cloud)
 - **TikTok:** [@crosscheck.cloud](https://www.tiktok.com/@crosscheck.cloud)
 - **YouTube:** [@Crosscheck-Cloud](https://www.youtube.com/@Crosscheck-Cloud)
+- **Discord:** [discord.gg/3rzDAy8X](https://discord.gg/3rzDAy8X)
 
 ---
 
