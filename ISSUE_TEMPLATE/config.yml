@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Help Center
-    url: https://crosscheck.cloud/help-center
-    about: Browse documentation and common questions before opening an issue.
+  - name: Documentation
+    url: https://crosscheck.cloud/docs
+    about: Browse the Crosscheck docs before opening an issue.
   - name: Product Support
     url: mailto:support@crosscheck.cloud
     about: Email us for account, install, or product issues.

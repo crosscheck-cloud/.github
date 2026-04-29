@@ -4,7 +4,6 @@ Need help with Crosscheck? Here's where to go.
 
 ## Documentation
 
-- **Help center:** [crosscheck.cloud/help-center](https://crosscheck.cloud/help-center)
 - **Docs:** [crosscheck.cloud/docs](https://crosscheck.cloud/docs)
 - **Changelog:** [crosscheck.cloud/changelog](https://crosscheck.cloud/changelog)
 
@@ -20,9 +19,8 @@ Need help with Crosscheck? Here's where to go.
 
 If you've found a bug in the Crosscheck product:
 
-1. Check the [help center](https://crosscheck.cloud/help-center) to see if it's a known issue.
-2. If not, open an issue on the relevant repository using the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md).
-3. For urgent or account-blocking issues, email **support@crosscheck.cloud** directly.
+1. Open an issue on the relevant repository using the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md).
+2. For urgent or account-blocking issues, email **support@crosscheck.cloud** directly.
 
 ## Feature requests
 
@@ -30,8 +28,12 @@ We welcome ideas. Open an issue using the [feature request template](.github/ISS
 
 ## Community
 
-- **X / Twitter:** [@crosscheck](https://x.com/crosscheck)
-- **LinkedIn:** [linkedin.com/company/crosscheck](https://linkedin.com/company/crosscheck)
+- **X / Twitter:** [@CrosscheckCloud](https://x.com/CrosscheckCloud)
+- **LinkedIn:** [linkedin.com/company/crosscheck-cloud](https://www.linkedin.com/company/crosscheck-cloud)
+- **Facebook:** [facebook.com/crosscheck.cloud](https://www.facebook.com/crosscheck.cloud)
+- **Instagram:** [@crosscheck.cloud](https://www.instagram.com/crosscheck.cloud)
+- **TikTok:** [@crosscheck.cloud](https://www.tiktok.com/@crosscheck.cloud)
+- **YouTube:** [@Crosscheck-Cloud](https://www.youtube.com/@Crosscheck-Cloud)
 
 ## Response times
 

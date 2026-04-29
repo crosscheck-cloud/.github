@@ -4,11 +4,11 @@
 
 <br /><br />
 
-[**Install free →**](https://crosscheck.cloud/install) · [Website](https://crosscheck.cloud) · [Docs](https://crosscheck.cloud/docs) · [Changelog](https://crosscheck.cloud/changelog)
+[**Install free →**](https://chromewebstore.google.com/detail/crosscheck/acnahejlmejjbbloeodkkpapmbnieljf) · [Website](https://crosscheck.cloud) · [Docs](https://crosscheck.cloud/docs) · [Changelog](https://crosscheck.cloud/changelog)
 
 [![Website](https://img.shields.io/badge/website-crosscheck.cloud-2D2DAF?style=flat-square)](https://crosscheck.cloud)
-[![Twitter Follow](https://img.shields.io/twitter/follow/crosscheck?style=flat-square&color=2D2DAF&logo=x&logoColor=white)](https://x.com/crosscheck)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crosscheck-2D2DAF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/crosscheck)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CrosscheckCloud?style=flat-square&color=2D2DAF&logo=x&logoColor=white)](https://x.com/CrosscheckCloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Crosscheck-2D2DAF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/crosscheck-cloud)
 
 </div>
 
@@ -32,11 +32,10 @@ Built for front-end developers, QA engineers, product managers, and anyone who r
 
 | | |
 |---|---|
-| **Try Crosscheck** | [crosscheck.cloud/install](https://crosscheck.cloud/install) |
+| **Try Crosscheck** | [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/crosscheck/acnahejlmejjbbloeodkkpapmbnieljf) |
 | **Read the docs** | [crosscheck.cloud/docs](https://crosscheck.cloud/docs) |
 | **MCP server** | [mcp.crosscheck.cloud](https://mcp.crosscheck.cloud) |
 | **Compare** | [vs Jam](https://crosscheck.cloud/compare/jam) · [vs Loom](https://crosscheck.cloud/compare/loom) · [vs Marker.io](https://crosscheck.cloud/compare/marker-io) · [vs BugHerd](https://crosscheck.cloud/compare/bugherd) · [vs Userback](https://crosscheck.cloud/compare/userback) |
-| **Help center** | [crosscheck.cloud/help-center](https://crosscheck.cloud/help-center) |
 | **Contact** | [info@crosscheck.cloud](mailto:info@crosscheck.cloud) |
 | **Support** | [support@crosscheck.cloud](mailto:support@crosscheck.cloud) |
 | **Security** | See [SECURITY.md](../SECURITY.md) |
@@ -45,10 +44,12 @@ Built for front-end developers, QA engineers, product managers, and anyone who r
 
 We ship in public — releases, behind-the-scenes, and the occasional bug horror story.
 
-- **X / Twitter:** [@crosscheck](https://x.com/crosscheck)
-- **LinkedIn:** [linkedin.com/company/crosscheck](https://linkedin.com/company/crosscheck)
-- **Instagram:** [@crosscheck](https://instagram.com/crosscheck)
-- **YouTube:** [@crosscheck](https://youtube.com/@crosscheck)
+- **X / Twitter:** [@CrosscheckCloud](https://x.com/CrosscheckCloud)
+- **LinkedIn:** [linkedin.com/company/crosscheck-cloud](https://www.linkedin.com/company/crosscheck-cloud)
+- **Facebook:** [facebook.com/crosscheck.cloud](https://www.facebook.com/crosscheck.cloud)
+- **Instagram:** [@crosscheck.cloud](https://www.instagram.com/crosscheck.cloud)
+- **TikTok:** [@crosscheck.cloud](https://www.tiktok.com/@crosscheck.cloud)
+- **YouTube:** [@Crosscheck-Cloud](https://www.youtube.com/@Crosscheck-Cloud)
 
 ---
 
